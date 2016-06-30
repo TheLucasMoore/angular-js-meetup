@@ -42,6 +42,8 @@ Built in CLI tools.
 
 - Build (instead of Yeoman) 
   - $ ng build
+  - Converts SCSS
+  - Can be set up to minify, concat and source maps
 - Unit Tests, Protractor Tests 
   - $ ng test
   - these tests are in PROJECT_NAME.component.spec.ts
